@@ -4,7 +4,7 @@
   "description": "A sample app and accompanying walkthrough for the Plaid API.",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node index.js"
   },
   "engines": {
     "node": "8.15.0"
