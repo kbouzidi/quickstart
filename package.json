@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node src/index.js"
   },
+  "engines": {
+    "node": "8.15.0"
+  },
   "author": "developers@plaid.com",
   "repository": "https://github.com/plaid/quickstart",
   "license": "ISC",
